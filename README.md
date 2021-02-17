@@ -5,6 +5,10 @@ Resources for everyone!
 ###### Free AI / ML Resources Cheetsheets / DS projects with source code / Tutorials / Books
 https://www.theinsaneapp.com/ 
 
+###### One year of access to foundational workshops, available at no charge for registered Packt users
+HTML & CSS, Javascript, PHP, Python, Ruby, Java, Go, Clojure, C++, SQL
+https://courses.packtpub.com/pages/free
+
 ###### SQL  Resources
 1. Zachary Thomas' SQL Questions https://lnkd.in/g-JJzuD
 Medium-Hard Data Analyst SQL Interview Questions
