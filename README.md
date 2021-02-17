@@ -36,4 +36,4 @@ Practice exercises and quizes
 10. SQL Bolt: https://sqlbolt.com/
 Interactive lessons and exercises designed to help you quickly learn SQL
 
-11. MODE: https://mode.com/sql-tutorial/ Learn to answer questions with data using SQL. No coding experience necessary.
+11. MODE: https://mode.com/sql-tutorial/ Learn to answer questions with data using SQL. No coding experience necessary
