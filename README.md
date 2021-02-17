@@ -5,7 +5,7 @@ Resources for everyone!
 ###### Free AI / ML Resources Cheetsheets / DS projects with source code / Tutorials / Books
 https://www.theinsaneapp.com/ 
 
-:fire: SQL  Resources
+###### SQL  Resources
 1. Zachary Thomas' SQL Questions https://lnkd.in/g-JJzuD
 Medium-Hard Data Analyst SQL Interview Questions
 
@@ -35,3 +35,5 @@ Practice exercises and quizes
 
 10. SQL Bolt: https://sqlbolt.com/
 Interactive lessons and exercises designed to help you quickly learn SQL
+
+11. MODE: https://mode.com/sql-tutorial/ Learn to answer questions with data using SQL. No coding experience necessary.
