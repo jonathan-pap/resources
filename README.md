@@ -1,9 +1,9 @@
 # Resources
 
 ###### Git Resources
-&nbsp;&nbsp; https://education.github.com/git-cheat-sheet-education.pdf
-&nbsp;&nbsp; https://phoenixnap.com/kb/git-commands-cheat-sheet
-&nbsp;&nbsp; https://www.keycdn.com/blog/git-cheat-sheet
+&nbsp;&nbsp;https://education.github.com/git-cheat-sheet-education.pdf
+&nbsp;&nbsp;https://phoenixnap.com/kb/git-commands-cheat-sheet
+&nbsp;&nbsp;https://www.keycdn.com/blog/git-cheat-sheet
 
 
 
