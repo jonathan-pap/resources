@@ -1,6 +1,12 @@
 # Resources
 
-Resources for everyone!
+###### Git Resources
+&nbsp;&nbsp; https://education.github.com/git-cheat-sheet-education.pdf
+&nbsp;&nbsp; https://phoenixnap.com/kb/git-commands-cheat-sheet
+&nbsp;&nbsp; https://www.keycdn.com/blog/git-cheat-sheet
+
+
+
 
 ###### Free AI / ML Resources Cheetsheets / DS projects with source code / Tutorials / Books
 &nbsp;&nbsp; https://www.theinsaneapp.com/ 
@@ -42,3 +48,6 @@ Practice exercises and quizes
 Interactive lessons and exercises designed to help you quickly learn SQL
 
 11. MODE: https://mode.com/sql-tutorial/ Learn to answer questions with data using SQL. No coding experience necessary
+
+
+
