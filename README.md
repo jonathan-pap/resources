@@ -11,7 +11,7 @@
 
 &nbsp;&nbsp;https://www.keycdn.com/blog/git-cheat-sheet
 
-&nbsp;&nbsp;https://drive.google.com/file/d/1tIiObynoKeLeTtrYbYEuPOnGW1RVsPjO/view?usp=sharing
+&nbsp;&nbsp;[Creat your personal site on Github](https://drive.google.com/file/d/1tIiObynoKeLeTtrYbYEuPOnGW1RVsPjO/view?usp=sharing)
 
 
 ###### Free AI / ML Resources Cheetsheets / DS projects with source code / Tutorials / Books
