@@ -2,28 +2,28 @@
 
 ##### Courses / Tutorials
 
-- https://www.guru99.com                       
-- https://www.w3schools.com                     
-- https://courses.packtpub.com/collections 
-- https://mode.com/sql-tutorial 
-- https://mode.com/python-tutorial/python-basics 
-- https://sqlbolt.com 
-- https://selectstarsql.com 
-- https://sqlzoo.net 
-- https://www.linkedin.com/learning/topics/sql 
-- https://www.windowfunctions.com 
+- https://www.guru99.com                     
+- https://www.w3schools.com
+- https://courses.packtpub.com/collections
+- https://mode.com/sql-tutorial
+- https://mode.com/python-tutorial/python-basics
+- https://sqlbolt.com
+- https://selectstarsql.com
+- https://sqlzoo.net
+- https://www.linkedin.com/learning/topics/sql
+- https://www.windowfunctions.com
 
 - https://www.hackerearth.com/
-- https://www.kaggle.com 
-- https://leetcode.com 
-- https://hackerrank.com 
-- https://codeacademy.com 
-- https://datacamp.com 
+- https://www.kaggle.com
+- https://leetcode.com
+- https://hackerrank.com
+- https://codeacademy.com
+- https://datacamp.com
 - https://www.freecodecamp.org
-- https://www.dataquest.io 
-- https://365datascience.com 
-- https://www.udemy.com 
-- https://www.udacity.com/courses/all?type=free+courses 
+- https://www.dataquest.io
+- https://365datascience.com
+- https://www.udemy.com
+- https://www.udacity.com/courses/all?type=free+courses
 - https://www.coursera.com/
 
 ---
@@ -50,7 +50,6 @@
 - https://ezyang.github.io/convolution-visualizer/index.html
 - https://towardsdatascience.com/what-is-a-neural-network-6010edabde2b
 - https://www.datacamp.com/community/tutorials/convolutional-neural-networks-python
-- https://towardsdatascience.com/what-is-a-neural-network-6010edabde2b
 - https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks?fbclid=IwAR0qn8GjS7fUjexad0GCjXYchU3kqHZOQC3n1Z1bhCw9hFDy3X_FxFoev_8
 - https://www.youtube.com/watch?v=YRhxdVk_sIs
 - https://towardsdatascience.com/a-deeper-understanding-of-nnets-part-1-cnns-263a6e3ac61
