@@ -29,13 +29,16 @@
 
 ---
 #### Blogs / Webistes
+
 - https://integratedmlai.com
 - https://mathdatasimplified.com
 - https://datasciencecentral.com
 - https://www.kdnuggets.com 
 - https://www.theinsaneapp.com
 - https://www.analyticsvidhya.com
-- https://kurtispykes.medium.com/
+- https://kurtispykes.medium.com
+- https://www.datasciencecentral.com
+- https://www.geeksforgeeks.org
 
 ---
 #### Datasets
