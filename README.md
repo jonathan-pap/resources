@@ -2,6 +2,7 @@
 
 ##### Courses / Tutorials
 
+- https://www.khanacademy.org
 - https://www.guru99.com                     
 - https://www.w3schools.com
 - https://courses.packtpub.com/collections
@@ -13,7 +14,7 @@
 - https://www.linkedin.com/learning/topics/sql
 - https://www.windowfunctions.com
 
-- https://www.hackerearth.com/
+- https://www.hackerearth.com
 - https://www.kaggle.com
 - https://leetcode.com
 - https://hackerrank.com
@@ -33,6 +34,7 @@
 - https://www.kdnuggets.com 
 - https://www.theinsaneapp.com
 - https://www.analyticsvidhya.com
+- https://kurtispykes.medium.com/
 
 ---
 #### Datasets
@@ -71,12 +73,6 @@
 - https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 - https://education.github.com/git-cheat-sheet-education.pdf
 
----
-#### Python Libraries
-- https://seaborn.pydata.org/tutorial.html
-- https://scikit-learn.org/stable/
-- https://pandas.pydata.org/docs/
-
 --- 
 #### Statistics
 - https://seeing-theory.brown.edu/basic-probability/index.html
@@ -84,6 +80,7 @@
 - https://www.mathsisfun.com
 - https://statisticshowto.com
 - https://statisticsbyjim.com
+ -https://www.mathsisfun.com/
 
 --- 
 #### Free online Books
