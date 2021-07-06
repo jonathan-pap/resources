@@ -29,6 +29,7 @@
 
 ---
 #### Blogs / Webistes
+- https://integratedmlai.com
 - https://mathdatasimplified.com
 - https://datasciencecentral.com
 - https://www.kdnuggets.com 
